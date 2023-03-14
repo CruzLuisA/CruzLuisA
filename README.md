@@ -1,15 +1,13 @@
 <h2> Hey there! 👋, I'm Luis Cruz!</h2>
-<img align='right' src="" width="230">
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-
-### <img src="" width="50"> A little more about me...  
 
 ```javascript
 const cruz = {
   pronouns: "he" | "him",
   languages: [JavaScript(ES6, Node.js), Python, HTML 5, CSS, SQL, Java],
-  frameworks: [React, Express, Flask, Jinja2, Bootstrap]
-  databases: [MySQL, MongoDB, Mongoose]
+  frameworks: [React, Express, Flask, Jinja2, Bootstrap],
+  databases: [MySQL, MongoDB, Mongoose],
   tools: [Node, MySQL Workbench, VS Code, Postman, GitHub],
 
 }
@@ -19,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
   
 ### 🧐 More About Me:
 
@@ -29,9 +27,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/luis-cruz-735234215/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br>
 
