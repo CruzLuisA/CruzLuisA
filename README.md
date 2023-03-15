@@ -5,7 +5,7 @@
 ```javascript
 const cruz = {
   pronouns: "he" | "him",
-  languages: [JavaScript(ES6, Node.js), Python, HTML 5, CSS, SQL, Java],
+  languages: [JavaScript(ES6, Node.js), Python, HTML 5, CSS, Java],
   frameworks: [React, Express, Flask, Jinja2, Bootstrap],
   databases: [MySQL, MongoDB, Mongoose],
   tools: [Node, MySQL Workbench, VS Code, Postman, GitHub],
