@@ -21,8 +21,8 @@ I am a versatilist and easily adapt to different hats (Junior Software Engineer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on ""
-- 🌱 &nbsp; I’m currently learning... ; 
+- 🔭 &nbsp; I’m currently working on "LuaSoft" website
+- 🌱 &nbsp; I’m currently learning more of javaScript ; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/CruzLuisA?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/luis-cruz-735234215/)
 - 📝 &nbsp; Checkout my [resume]()
